@@ -1,6 +1,6 @@
 {
   "name": "react-gpu-fingerprint",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple browser gpu-fingerprint component for React.",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yakubori/react-gpu-fingerprint"
+    "url": "git@github.com:yakubori/react-gpu-fingerprint.git"
   },
   "keywords": [
     "react",
