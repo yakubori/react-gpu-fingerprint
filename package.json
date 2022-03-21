@@ -1,6 +1,6 @@
 {
   "name": "react-gpu-fingerprint",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "A simple browser gpu-fingerprint component for React.",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
